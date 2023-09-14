@@ -1,0 +1,337 @@
+[
+     {
+          "instruction": "ich studiere schon an der thm und habe mein passwort vergessen was muss ich tun?",
+          "input": "",
+          "output": "Bitte kontaktiere das InfoCenter THM"
+     },
+     {
+          "instruction": "Ich studiere schon an der THM und m\u00f6chte den Studiengang wechseln. Muss ich mich neu \u00fcber E-Campus registrieren?",
+          "input": "",
+          "output": "Nein, es ist keine neue Registrierung notwendig. Bitte nutze deine bisherige THM-Benutzerkennung und dein Passwort."
+     },
+     {
+          "instruction": "Wie kann ich mir eine Studienbescheinigung, Studienverlaufsbescheinigung oder eine Bescheinigung h\u00fct Baf\u00f6g erstellen?",
+          "input": "",
+          "output": "\u00dcber den Bereich \"Mein Studium - Studienservice - Bescheide/Bescheinigungen\" stehen alle Dokumente zum Download zur Verf\u00fcgung."
+     },
+     {
+          "instruction": "Ich bin umgezogen. Wie kann ich der THM mene neue Adresse mitteilen?",
+          "input": "",
+          "output": "Melde dich einfach \u00fcber den E-Campus an. Im Bereich Mein Studium - Studienservice - Kontaktdaten - Studium kannst du deine neue Adresse eingeben."
+     },
+     {
+          "instruction": "Mein Name oder mein Geburtsdatum ist falsch hinterlegt. Wer kann mir helfen?",
+          "input": "",
+          "output": "Bitte stelle im E-Campus direkt einen Antrag auf \u00c4nderung der personenbezogenen Daten. Du findest den Antrag unter Service - Antr\u00e4ge - Sonstige Antr\u00e4ge."
+     },
+     {
+          "instruction": "Was finde ich auf der Registerkarte Zahlungen?",
+          "input": "",
+          "output": "Hier kannst du den Semesterbeitrag sehen, den du f\u00fcr eine R\u00fcckmeldung \u00fcberweisen musst. Du kannst hier auf einen Blick sehen wie hoch der zu zahlende Betrag ist oder auch welche Beitr\u00e4ge du bereits gezahlt hast. Falls du z. B. einen zu hohen Betrag \u00fcberwiesen hast, wird Dir dies als Guthaben angezeigt. \u00dcber den Button Beitr\u00e4ge erstatten, kannst du die R\u00fcckzahlung dieses Guthabens direkt beantragen."
+     },
+     {
+          "instruction": "Ich habe eine Sperre. Was muss ich jetzt tun?",
+          "input": "",
+          "output": "Eine Sperre verhindert die R\u00fcckmeldung zum angegebenen Semester. Wenn du nicht genau wei\u00dft, was der Grund f\u00fcr die Sperre ist, kontaktiere das Studiensekretariat."
+     },
+     {
+          "instruction": "Es treten Fehler bei der Pr\u00fcfungsanmeldung auf. An wen kann ich mich wenden?",
+          "input": "",
+          "output": "Bitte achte zuerst darauf, dass du nur in einem Browser Tab arbeitest. Sollte es immer noch zu Fehlermeldungen kommen, schreibe eine E-Mail mit Angabe deiner Matrikelnummer an: studsb@thm.de"
+     },
+     {
+          "instruction": "Ich bin exmatrikuliert. Wei lange ist mein Account und meine E-Mail Adresse noch aktiv?",
+          "input": "",
+          "output": "Die Zug\u00e4nge werden 90 Tag nach dem Exmatrikulationsdatum unwiderruflich gel\u00f6scht. Sichere Dir aus diesem Grund direkt nach oder vor der Exmatrikulation s\u00e4mtliche E-Mails und Bescheinigungen."
+     },
+     {
+          "instruction": "Wo kann ich mir eine aktuelle Leistungs\u00fcbersicht ausdrucken?",
+          "input": "",
+          "output": "Diese findest du unter \"Pr\u00fcfungen und Veranstaltungen \u2013 Leistungs\u00fcbersicht\". Achtung Nach der Exmatrikulation steht Dir die Leistungs\u00fcbersicht nicht mehr im E-Campus als Download zu Verf\u00fcgung. Wende dich dann bitte direkt an deinen Fachbereich."
+     },
+     {
+          "instruction": "Ich bin Studienanf\u00e4nger*in und m\u00f6chte mir das THM_Benutzerkonto freischalten. Wo finde ich meine Zugangsdaten?",
+          "input": "",
+          "output": "Bitte logge dich in deinen Bewerberaccount ein. Unter Mein Studium - Studienservice - Bescheide/Bescheinigungen findest du dein THM-Initialpasswort zur Freischaltung des THM-Benutzerkontos. Folge einfach den Anweisungen auf dem Dokument."
+     },
+     {
+          "instruction": "Warum steht auf meinen alten Studienbescheinigung 0\u20ac als Semesterbeitrag?",
+          "input": "",
+          "output": "Nach der Systemumstellung k\u00f6nnen auf alten Studienbescheinigungen (bis einschlie\u00dflich SS 2021) keine Semesterbeitr\u00e4ge mehr angezeigt werden. Ab dem aktuellen Semester (WS 21/22) steht der Semesterbeitrag wieder drauf. Eine \u00dcbersicht \u00fcber die vergangenen Semesterbeitr\u00e4ge findest du hier."
+     },
+     {
+          "instruction": "Warum werden mir nicht alle meine Studienbescheinigungen angezeigt?",
+          "input": "",
+          "output": "Nach der Systemumstellung k\u00f6nnen auf alten Studienbescheinigungen (bis einschlie\u00dflich SS 2021) keine Semesterbeitr\u00e4ge mehr angezeigt werden. Ab dem aktuellen Semester (WS 21/22) steht der Semesterbeitrag wieder drauf. Eine \u00dcbersicht \u00fcber die vergangenen Semesterbeitr\u00e4ge findest du hier."
+     },
+     {
+          "instruction": "Wof\u00fcr steht die Abk\u00fcrzung \"BPP\"",
+          "input": "",
+          "output": "Die Abk\u00fcrzung \"BPP\" steht f\u00fcr Berufpspraktische Phase"
+     },
+     {
+          "instruction": "Wof\u00fcr steht die Abk\u00fcrzung \"PO\"",
+          "input": "",
+          "output": "Die Abk\u00fcrzung \"PO\" steht f\u00fcr Pr\u00fcfungsordnung"
+     },
+     {
+          "instruction": "Wo finde ich Regelungen zur BPP",
+          "input": "",
+          "output": "Die BPP ist in der jeweiligen Pr\u00fcfungsordnung geregelt. Hierbei gibt es 1. Allgemein Bestimmungen, die hochschulweit gelten und 2. Fachspezifische Regelungen die den Bachelor Maschinenbau/Mechatronik oder Maschinenbau Mechatronik Master betreffen"
+     },
+     {
+          "instruction": "Warum gibt es parallel mehrere Pr\u00fcfungsordnungen",
+          "input": "",
+          "output": "Die Studieng\u00e4nge an der TH sind akkredetiert, d.h., dass eine unabh\u00e4ngige Stelle Eine Bewertung des Studiengangs erstellt und Anregungen zur Weiterentwicklung gibt. Weitgreifende Anpassungen einer Pr\u00fcfungsordnung m\u00fcssen akkredetiert werden. Daher gibt es momentan zwei Pr\u00fcfungsordnungen (Stand SoSe2023)"
+     },
+     {
+          "instruction": "Welche Pr\u00fcfungsordnungen gibt es im Fachbereich M, die relevant f\u00fcr die BPP sind",
+          "input": "",
+          "output": "Es gibt momentan parallel die PO 2020 und PO 2016 im Studiengang Maschinenbau und parallel dazu die PO 2020 und 2016 im Studiengang Mechatronik (Stand SoSe2023)"
+     },
+     {
+          "instruction": "Wo kann ich die Pr\u00fcfungsordnungen finden",
+          "input": "",
+          "output": "Die Pr\u00fcfungsordnungen sind auf der Website des Fachbereichs und im Moodle-Kurs des Fachbereichs hinterlegt"
+     },
+     {
+          "instruction": "Wie lange dauert die BPP",
+          "input": "",
+          "output": "Studierende in der PO 2020 m\u00fcssen 10 Wochen Praxisphase, Studierende in der PO 2016 m\u00fcssen 13 Praxisphase absolvieren (sowohl Mechatronik, als auch Maschinenbau)"
+     },
+     {
+          "instruction": "Bekomme ich eine Praxisstelle zugewiesen",
+          "input": "",
+          "output": "Nein. Die Beschaffung einer geeigneten Praxisstelle obliegt dem Studirenden"
+     },
+     {
+          "instruction": "Gibt es Voraussetzungen, die ein Studierender erf\u00fcllen muss, bevor er die BPP absolviert",
+          "input": "",
+          "output": "Ja. Vor Antritt der BPP m\u00fcssen gewisse Voraussetzungen erf\u00fcllt sein. Diese sind in der PO, in der Anlage drei der Pr\u00fcfungsordnung und im BPP-Moodle-Kurs des Fachbereichs zu finden"
+     },
+     {
+          "instruction": "Was sind die Ziele der BPP",
+          "input": "",
+          "output": "Der Studierende soll studiengangsad\u00e4quate und berufsqualifiziernde T\u00e4tigkeiten im Praxisunternehmen aus\u00fcben."
+     },
+     {
+          "instruction": "Welche Aufgabenbereiche sollte die BPP enthalten",
+          "input": "",
+          "output": "Studierende sollten in maximal drei und dabei schwerpunktm\u00e4ssig in einem der folgenden Augbabenbereiche mitarbeiten: 1. Entwicklung, Projektierung, Konstruktion, Berechnung 2. Fertigungsvorbereitung und -Steuerung, Fertigung 3. Montage, Inspektion/\u00dcberwachung, Instandhaltung 4. Qualit\u00e4tssicherung, Abnahme von Maschinen und Anlagen 5. Technische Beratung, Vertrieb"
+     },
+     {
+          "instruction": "M\u00fcssen Fehlzeiten in der BPP nachgeholt werden",
+          "input": "",
+          "output": "Sollten Sie in der BPP erkranken oder Urlaub nehmen, m\u00fcssen diese Zeiten nachgeholt und die BPP um die entsprechende Zeit verl\u00e4ngert werden"
+     },
+     {
+          "instruction": "Welche Zulassungsvoraussetzungen gelten f\u00fcr die BPP",
+          "input": "",
+          "output": "1. alle Module des Bachelorstudiengangs bis einschliesslich des des dritten Studiensemester m\u00fcssen erfolgreich abgeschlossen sein 2. das Grundpraktikum muss abgeschlossen sein 3. ein Praktikumsvertrag \u00fcber den entsprechenden Zeitraum muss nachgewiesen werden 4. ein betreuender Professor/in muss nachgewiesen werden"
+     },
+     {
+          "instruction": "Wen darf ich als betreuenden Prof. w\u00e4hlen",
+          "input": "",
+          "output": "Generell d\u00fcrfen Sie aus allen Professor/innen des Fachbereichs w\u00e4hlen. Wenn sie sich von einem Betreuer (Professor, Lehrbeauftragten oder Mitarbeiter) des Fachbereiches IEM oder eines anderen Fachbereiches der THM betreuen lassen m\u00f6chten, ben\u00f6tigen Sie eine Zulassung des Pr\u00fcfungsausschusses"
+     },
+     {
+          "instruction": "Wer/Was sind BPP-Beauftragte",
+          "input": "",
+          "output": "Dies sind  die Professorinnen und Professoren  der Hochschule, die Sie im BPP fachlich betreuen."
+     },
+     {
+          "instruction": "Wer/Was ist der BPP-Referent",
+          "input": "",
+          "output": "Der BPP-Referent ist Ihr Ansprechpartner vor und w\u00e4hrend der BPP. Er ist f\u00fcr die Logistik der BPP zust\u00e4ndig."
+     },
+     {
+          "instruction": "Wer/Was ist der BPP-Betreuer",
+          "input": "",
+          "output": "BPP-Betreuer sind Ihre (in der Regel) akademisch ausgebildeten Ansprechpartner in den Unternehmen."
+     },
+     {
+          "instruction": "Wie komme ich zu einer BPP-Stelle",
+          "input": "",
+          "output": "1. \u00fcber Eigeninitiative (Innitiativbewerbung) 2. \u00fcber Kontakt durch Lehrende 3. \u00fcber Jobportale im Internet, wie zum Beispiel IQB:  http://www.iqb.de/myjobportal 4. \u00fcber Stellenanzeigen auf der TH-Homepage"
+     },
+     {
+          "instruction": "Wie ist der logistische Ablauf der BPP",
+          "input": "",
+          "output": "1. Teilnahme an Referaten anderer Studierender und der BPP-Einf\u00fchrungsveranastaltung 2. Bewerbung beim Unternehmen 3. Auswahl des BPP-Beauftragten 4. Zulassungsvoraussetzungen erf\u00fcllen 5. Anmeldung der BPP beim BPP-Referenten 6. Praktische T\u00e4tigkeit im Unternehmen absolvieren 7. Erstellen des BPP-Berichts und des BPP-Vortrags 8. Firmenzeugnis/T\u00e4tigkeitsnachweis dem BPP-Referenten vorlegen 9. Vortragstermin im Moodle-Kurs buchen und BPP-Referat halten 10. Anerkennung der BPP"
+     },
+     {
+          "instruction": "Wann muss die BPP beim BPP-Referenten angemeldet werden",
+          "input": "",
+          "output": "Die Anmeldung zur BPP muss vor Antritt der BPP-Stelle beantragt werden. Erst nach Genehmigung kann die Stelle angetreten werden."
+     },
+     {
+          "instruction": "Wo finde das BPP-Begleitformular",
+          "input": "",
+          "output": "Das BPP-Begleitformular finden Sie im Moodle-Kurs der BPP"
+     },
+     {
+          "instruction": "Ben\u00f6tige ich ein Formular/Laufzettel f\u00fcr die BPP",
+          "input": "",
+          "output": "Ja, Sie ben\u00f6tigen ein BPP-Begleitformular. Dieses finden Sie als Download im BPP-Moodle-Kurs."
+     },
+     {
+          "instruction": "Muss/kann ich bereits Eintr\u00e4ge auf dem BPP-Begleitformular machen",
+          "input": "",
+          "output": "Ja, es ist sinnvoll, wenn Sie bereits Ihre pers\u00f6nlichen Angaben, sowie das Unternehmen/Anschrift auf dem Begleitformular vor Einreichung beim BPP-Referenten ausf\u00fcllen/eintragen"
+     },
+     {
+          "instruction": "Was ben\u00f6tige ich zur Anmeldung der BPP beim BPP-Referenten",
+          "input": "",
+          "output": "Sie ben\u00f6tigen: 1. unterschriebenen Arbeitsvertrag 2. Bachelorlaufzettel 3. Nachweis \u00fcber 10 geh\u00f6rte Vortr\u00e4ge und \u00fcber die Einf\u00fchrungsveranstaltung 4. weitgehend ausgef\u00fclltes BPP-Begleitformular 5. Name, Telefonnummer des Betreuers im Unternhemen (BPP-Betreuer) 6. Name der betreuenden Professorin/Professor (BPP-Beaftragte/r)"
+     },
+     {
+          "instruction": "Gibt es Sonderregelungen f\u00fcr Dual-Studierende / Werkstudenten",
+          "input": "",
+          "output": "Ja. Wird eine der Berufspraktischen Phase gleichwertige T\u00e4tigkeit nachgewiesen, kann diese auf Antrag beim Pr\u00fcfungsausschussvorsitzenden ganz oder teilweise auf die Berufspraktische Phase angerechnet werden."
+     },
+     {
+          "instruction": "Wann sind die als BPP anrechenbaren Praxiszeiten des is+i Studiums",
+          "input": "",
+          "output": "Die als BPP anrechenbaren Praxiszeiten des is+i Studiums sind im dritten Studienjahr"
+     },
+     {
+          "instruction": "Wann sind die als BPP anrechenbaren Praxiszeiten des is+a Studiums",
+          "input": "",
+          "output": "Die als BPP anrechenbaren Praxiszeiten des is+a Studiums sind am Ende des dritten- und am Anfang des vierten Studienjahres"
+     },
+     {
+          "instruction": "Was gibt es  als is+i oder als  is+a Studierender zu beachten, wenn ich Praxisphasen anerkennen lasse",
+          "input": "",
+          "output": "Praxisphasen k\u00f6nnen nur vom BPP-Referenten anerkannt werden, wenn Sie bereits vor den entsprechenden Praxisphasen die BPP-Teilzulassung erf\u00fcllt hatten. Andernfalls bedarf es einer Einzelfallentscheidung des jeweiligen Pr\u00fcfungsausschusses."
+     },
+     {
+          "instruction": "Was muss beim Erstellen des BPP-Berichtes beachtet werden",
+          "input": "",
+          "output": "1. Nach der Praxisphase muss ein schriftlicher Bericht zum fachlichen Inhalt \u00fcber die praktische T\u00e4tigkeit erstellt werden 2. Form und Inhalt sind vor Beginn der Betriebspraktischen Phase mit dem BPP- Beauftragten (Professor/in) abzusprechen 3. die Abgabe des Berichts muss mindestens zwei Wochen vor dem Vortragstermin erfolgen  4. Wenn der BPP-Bericht vom BPP-Beauftragten akzeptiert wird, wird dies auf dem BPP-Begleitformular testiert."
+     },
+     {
+          "instruction": "Wo bekommen ich Hilfe bei der Erstellung des Praktikumsberichts",
+          "input": "",
+          "output": "Die Schreibberatung der TH bietet Hilfe zur Selbsthilfe. Sie erreichen die Schreibberatung der THM unter der E-Mail: schreibberatung@thm.de"
+     },
+     {
+          "instruction": "Wann sollte ich mich bewerben / Wieviel Vorlauf sollte ich bei einer Bewerbung einplanen",
+          "input": "",
+          "output": "1. F\u00fcr eine Berufspraktische Phase in Deutschland ist ein Vorlauf von mindestens 3 bis 6 Monaten zu veranschlagen  2. F\u00fcr eine Berufspraktische Phase im europ\u00e4ischen Raum sind  6 bis 12 Monate zu veranschlagen 3. Ist eine Berufspraktische Phase im au\u00dfereurop\u00e4ischen Raum geplant, sollte zur Erledigung aller Formalit\u00e4ten ein Vorlauf von mindestens 12 Monaten ber\u00fccksichtigt werden."
+     },
+     {
+          "instruction": "K\u00f6nnen ausl\u00e4ndische Studierende die Praxisphase im Heimatland absolvieren",
+          "input": "",
+          "output": "Ja"
+     },
+     {
+          "instruction": "Wie wird die BPP anerkannt",
+          "input": "",
+          "output": "1 . Die Anerkennung der Berufspraktischen Phase erfolgt durch die  BPP- Beauftragten und den BPP-Referenten mit der Bewertung \u201cbestanden\u201c oder \u201cnicht bestanden\u201c 2. Es erfolgt keine Benotung 3. Wird die Berufspraktische Phase mit \u201cnicht bestanden\u201c bewertet, ist die gesamte Berufspraktische Phase einschlie\u00dflich der Begleitstudien zu wiederholen 4. Erst wenn alle Bestandteile erbracht sind erfolgt die Anerkennung der Berufspraktischen Phase"
+     },
+     {
+          "instruction": "Gibt es einenbestimmten Starttermin f\u00fcr die BPP im Semester",
+          "input": "",
+          "output": "Der Starttermin f\u00fcr die Berufspraktische Phase ist von den Semesterlaufzeiten unabh\u00e4ngig."
+     },
+     {
+          "instruction": "Kann ich die Projektarbeit , BPP und Bachelorarbeit zeitlich und oder thematisch zusammen absolvieren",
+          "input": "",
+          "output": "Alle drei Praxisphasen: - Projektarbeit,  - Berufspraktische Phase, - Bachelorarbeit,  m\u00fcssen zeitlich und thematisch getrennt sein."
+     },
+     {
+          "instruction": "Wo bekomme ich Informitionen zum BPP im Ausland",
+          "input": "",
+          "output": "Sie k\u00f6nnen sich bez\u00fcglich einer BPP im Auland beim international Office informieren. URL:  http://www.thm.de/international/"
+     },
+     {
+          "instruction": "Gibt es F\u00f6rederprogramme/F\u00f6rderm\u00f6glichkeiten f\u00fcr eine BPP im Ausland",
+          "input": "",
+          "output": "Ja. Sie k\u00f6nnen sich hier\u00fcber beim International Office informieren. URL:  http://www.thm.de/international/"
+     },
+     {
+          "instruction": "Wer ist Auslandsbeauftragter im Fachbereich M",
+          "input": "",
+          "output": "Prof. Dr. Udo Jung (Stand SoSe2023)"
+     },
+     {
+          "instruction": "Muss ich mich w\u00e4hrend der BPP Pflege- / Renten- / Arbeitslos- versichern",
+          "input": "",
+          "output": "\"Ordentlich eingeschriebene Studierende\" sind unabh\u00e4ngig von der w\u00f6chentlichen Arbeitszeit und der H\u00f6he des Entgelts - im Inland  versicherungsfrei in der Pflege-, Renten- und Arbeitslosenversicherung."
+     },
+     {
+          "instruction": "Muss ich mich w\u00e4hrende der BPP krankenversichern",
+          "input": "",
+          "output": "Nur Pflichtzeiten sind automatisch mit dem Studierendenstatus versichert. Freiwillige Anteile \u00fcber den Pflichtbereich hinaus sind eventuell, gem\u00e4\u00df dem Einkommen versicherungspflichtig. Setzen Sie sich mit Ihrer Krankenversicherung wegen Ihres Beitrages w\u00e4hrend des Praktikums in  Verbindung !"
+     },
+     {
+          "instruction": "Bin ich w\u00e4hrend der BPP unfallversichert",
+          "input": "",
+          "output": "Studierende in der Berufspraktische Phase sind im Inland durch die Berufsgenossenschaft des Unternehmens unfallversichert."
+     },
+     {
+          "instruction": "Ben\u00f6tige ich eine Haftpflichtversicherung",
+          "input": "",
+          "output": "Wir empfehlen den Abschluss einer Haftpflichtversicherung."
+     },
+     {
+          "instruction": "Besteht w\u00e4hrend der BPP ein Urlaubsanspruch",
+          "input": "",
+          "output": "Ein genereller Anspruch auf Bezahlung oder Urlaub besteht nicht."
+     },
+     {
+          "instruction": "Werden Einkommen in der Berufspraktischen Phase  auf das BAF\u00f6G angerechnet.",
+          "input": "",
+          "output": "Ja"
+     },
+     {
+          "instruction": "Sind Einkommen w\u00e4hrend der BPP steuerpfichtig",
+          "input": "",
+          "output": "Ja"
+     },
+     {
+          "instruction": "Wird das Einkommen w\u00e4hrend der BPP auf das Kindergeld angerechnet",
+          "input": "",
+          "output": "Nein. Eltern bekommen auch dannweiter volle Kindergeldzahlungen, wenn ihr Kind w\u00e4hrend seiner ersten Berufsausbildung oder seines Erststudiums hinzuverdient."
+     },
+     {
+          "instruction": "Unterliege ich w\u00e4hrend der BPP dem Mindestlohngesetz",
+          "input": "",
+          "output": "Pflicht: -Praktika, -Projektphasen, -Berufspraktische Phasen, die auf Grund einer hochschulrechtlichen Bestimmung (Pr\u00fcfungsordnung, Zulassungsverordnungen) zur Erlangung des Hochschulabschlusses vorgeschrieben sind sowie Vorpraktika bis zu drei Monaten unterliegen nicht dem Mindestlohngesetz und es besteht keine Dokumentationspflicht. Freiwillige Praktika von bis zu drei Monaten, welche zur Berufsorientierung oder begleitend zur Berufs- bzw. Hochschulausbildung geleistet werden, unterliegen nicht dem Mindestlohngesetz und es besteht keine Dokumentationspflicht. Der inhaltliche Bezug zur Ausbildung bzw. zum Studium muss allerdings klar erkennbar sein. Dauert das Praktikum l\u00e4nger als drei Monate oder wurde bereits zuvor ein Praktikum geleistet, ist das Mindestlohngesetz vom ersten Tage an anzuwenden."
+     },
+     {
+          "instruction": "Bekommen ich das Semsterticket w\u00e4hrend der BPP zur\u00fcckerstattet",
+          "input": "",
+          "output": "Wird die BPP ausserhalb des RMV/NVV Gebietes durchgef\u00fchrt, kann der Beitrag des Semestertickets auf Antrag zur\u00fcckerstattet werden. Antr\u00e4ge gibt es beim AStA. Der Antrag muss bis sp\u00e4testens 4 Wochen nach Semesterbeginn gestellt werden."
+     },
+     {
+          "instruction": "Wo finde ich den Referatsplan f\u00fcr die BPP-Vortr\u00e4ge",
+          "input": "",
+          "output": "der Referats-Plan ist im BPP-Moodle-Kurs zu finden."
+     },
+     {
+          "instruction": "Kann ich mir selbstt\u00e4tig einen Vortragstermin buchen",
+          "input": "",
+          "output": "Den Vortragstermin k\u00f6nnen Sie selbstt\u00e4tig buchen, wenn Sie die die entsprechenden Voraussetzungen erf\u00fcllen."
+     },
+     {
+          "instruction": "In/Mit welchem Programm soll ich den Vortrag erstellen",
+          "input": "",
+          "output": "Der BPP- Vortrag sollte in einer aktuellen Power Point Pr\u00e4sentation erstellt werden."
+     },
+     {
+          "instruction": "Wie lang sollte der BPP-Vortrag dauern",
+          "input": "",
+          "output": "Die Vortragsdauer sollte mindestens 20, maximal 30 Minuten betragen"
+     },
+     {
+          "instruction": "Sollte ich den Vortrag mit dem BPP-Unternehmen abstimmen",
+          "input": "",
+          "output": "Der Vortrag sollte mit dem Unternehmen abgestimmt werden. (evtl Geheimhaltungspflicht beachten)"
+     },
+     {
+          "instruction": "Wie sollte der Vortrag gegliedert sein",
+          "input": "",
+          "output": "Teil A: Vorstellung ca. 5% der Vortragszeit\nTeil B: Vorstellung des Unternehmens ca. 5% der Vortragszeit\nTeil C: T\u00e4tigkeiten im Unternehmen ca. 80-85% der Vortragszeit\nTeil D: Fazit ca. 5% der Vortragszeit\nTeil E: Auslandsaufenthalt zus\u00e4tzlich ca. 5-10 Minuten"
+     }
+]
