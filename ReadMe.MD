@@ -34,7 +34,7 @@ Visit the [LLama recipes](https://github.com/facebookresearch/llama-recipes) rep
 ### Custom dataset
 You may have to fine tune your model with a custom dataset. For a question/answering system, you can use the alpaca dataset pipline,
 that is already defined in the repo. But you can set your json dataset file in the [ft_datasets](./llama-recipes/ft_datasets) folder
-and specify the data path in ``./llama-recipes/configs/datasets.py`` script by the alpaca_dataset.data_path attribute.
+and specify the data path in the [datasets.py](./llama-recipes/configs/datasets.py) script by the alpaca_dataset.data_path attribute.
 For other fine-tuning uses with custom dataset, you can follow the steps describe in the llama recipe repo.
 
 ## Please give this repo a Star ⭐ if you found it helpful.
