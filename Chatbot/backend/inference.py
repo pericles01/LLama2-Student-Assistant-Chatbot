@@ -22,22 +22,17 @@ CORS(app)
 @app.post('/')
 def do_inference():
     data = request.get_json()
-    print(f"uncomming request data: {data}")
-    prompt = data["message"]
-    print(f"user prompt: {prompt}")
-    model_name = ""
-    peft_model = ""
-    """
-    output = main(model_name, peft_model, quantization=True, user_prompt=data.body, enable_sensitive_topics=True)
+    prompt = data["message"].strip()
+    print(f"upcoming user prompt data: {prompt}")
+
+    model_name = "meta-llama/Llama-2-7b-hf"
+    peft_model = "lora"
+
+    output = main(model_name, peft_model, quantization=True, user_prompt=data["message"].strip(), enable_sensitive_topics=True)
     if output == "unsafe":
         return jsonify({"output": "User prompt or assistant response deemed unsafe. Please ask something else"})
     else:
         return jsonify({"output": output})
-    """
-    if prompt.strip() == "how are you?":
-        return jsonify({"output": "fine and you?"})
-    else:
-        return jsonify({"output": "11 PM"})
 
 def main(
     model_name,
@@ -151,4 +146,3 @@ def main(
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=5000, debug=True)
-    #fire.Fire(main)
