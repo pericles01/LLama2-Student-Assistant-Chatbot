@@ -23,11 +23,28 @@ Node.js & React.
 * Create a fresh python/conda virtual environment & Install the dependencies ``pip3 install -r requirements.txt``
 * Run this file will start the backend webserver required to interact with the frontend's api ``python3 inference.py``
 
+If you have any issue with the bitsandbytes library, then you may have to compile it from source for it to support cuda and
+8-bits quantization. Please read this repo: https://github.com/TimDettmers/bitsandbytes
 ## Download & fine-tune a LLama Model
-### Download
-Visit the [meta official website]((https://ai.meta.com/llama/)) or/and [huggingface website](https://huggingface.co/models?sort=trending&search=meta-llama%2FLlama) to download a 
-Llama model
+### Mandatory requirements
+To successfully fine-tune LLaMA 2 models, you will need the following:
 
+* Fill [Meta’s form](https://ai.meta.com/llama/) to request access to the next version of Llama. 
+Indeed, the use of Llama 2 is governed by the Meta license, that you must accept in order to download the model weights and tokenizer.
+* Have a [Hugging Face](https://huggingface.co/) account (with the same email address you entered in Meta’s form).
+* Have a [Hugging Face token](https://huggingface.co/docs/hub/security-tokens).
+* Visit the [page of one of the LLaMA 2](https://huggingface.co/models?sort=trending&search=meta-llama) available models (version 7B, 13B or 70B), and accept Hugging Face’s license terms and acceptable use policy.
+* Log in to the Hugging Face model Hub from your notebook’s terminal by running the ``huggingface-cli login`` command, and enter your token. You will not need to add your token as git credential.
+* Powerful Computing Resources: Fine-tuning the Llama 2 model requires substantial computational power. 
+
+When every thing is set correctly, you don't need to download any Llama model because you can make use of
+the transformers library. You can simply enter the name of a model hosted in the hugging face hub:
+```bash
+from transformers import AutoTokenizer, AutoModelForCausalLM
+
+tokenizer = AutoTokenizer.from_pretrained("meta-llama/Llama-2-7b-chat-hf")
+model = AutoModelForCausalLM.from_pretrained("meta-llama/Llama-2-7b-chat-hf")
+```
 ### Fine Tuning 
 Visit the [LLama recipes](https://github.com/facebookresearch/llama-recipes) repo & follow the steps.
 
